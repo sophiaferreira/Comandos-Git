@@ -1,5 +1,5 @@
 ---
-DOCUMENTAION REQUEST
+name: DOCUMENTAION REQUEST
 about: Suggest an idea for this project
 title: Documentation request
 labels: documentation
