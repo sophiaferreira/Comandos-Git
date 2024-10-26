@@ -14,4 +14,4 @@ Describe your ideia:
 Yes or no.
 
 **Do you have any additional links you wish to share?**
-[Title](link)
+[Link name](link)
